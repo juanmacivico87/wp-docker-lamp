@@ -1,0 +1,7 @@
+.env
+
+app/wp-content/cache
+app/wp-content/db.php
+app/wp-content/log
+app/wp-content/uploads/
+app/wp-content/upgrade/
